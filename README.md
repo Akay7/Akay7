@@ -16,7 +16,7 @@
 
 ## Currently
 
-- 🔭 AI engineering — see [FrameWise](https://github.com/Akay7/FrameWise), a video-captioning agent with a [live demo](https://framewise-demo.onrender.com/); exploring RAG pipelines and LLM-powered products
+- 🔭 AI engineering — see [vacancy-radar](https://github.com/Akay7/vacancy-radar), a local-first job-application tracker (markdown vault, hybrid BM25 + vector search, MCP server so any LLM client can read/write it directly) — [`pip install vacancy-radar`](https://pypi.org/project/vacancy-radar/); also [FrameWise](https://github.com/Akay7/FrameWise), a video-captioning agent with a [live demo](https://framewise-demo.onrender.com/)
 - 🍓 Built [scaffold-strawberry-django](https://github.com/Akay7/scaffold-strawberry-django-skill), a portable [Agent Skill](https://agentskills.io/specification) that scaffolds Strawberry-Django GraphQL layers — works in Claude Code, OpenCode, and other Agent-Skills-compatible tools
 
 ## Open Source
