@@ -16,6 +16,7 @@
 
 ## Currently
 
+- 🗣️ Built [TypeLearn](https://github.com/Akay7/TypeLearn) — a dictation-based language-learning app, live at [typelearn.app](https://typelearn.app/): listen to a clip, type what you hear, get instant per-character feedback. Starts with Thai, designed for any language. Django + Strawberry GraphQL, Vue 3, Kubernetes (Helm, CloudNativePG)
 - 🔭 AI engineering — see [vacancy-radar](https://github.com/Akay7/vacancy-radar), a local-first job-application tracker (markdown vault, hybrid BM25 + vector search, MCP server so any LLM client can read/write it directly) — [`pip install vacancy-radar`](https://pypi.org/project/vacancy-radar/)
 - 🍓 Built [scaffold-strawberry-django](https://github.com/Akay7/scaffold-strawberry-django-skill), a portable [Agent Skill](https://agentskills.io/specification) that scaffolds Strawberry-Django GraphQL layers — works in Claude Code, OpenCode, and other Agent-Skills-compatible tools
 
