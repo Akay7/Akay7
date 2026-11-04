@@ -1,6 +1,6 @@
 # Hi, I'm Egor Poderiagin 👋
 
-**Senior Backend Engineer** — Python, Django, FastAPI, Kubernetes. 10+ years building and scaling production systems, including three lead roles.
+**Senior Backend Engineer** — Python, Django, FastAPI, Kubernetes. 10+ years building and scaling production systems.
 
 [Resume](https://crazyrussian.pro/en/resume/) · [LinkedIn](https://www.linkedin.com/in/egor-poderiagin/)
 
